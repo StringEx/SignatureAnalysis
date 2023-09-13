@@ -1,0 +1,15 @@
+D:\C#\SignatureAnalysis\bin\Debug\net6.0\SignatureAnalysis.exe
+D:\C#\SignatureAnalysis\bin\Debug\net6.0\SignatureAnalysis.deps.json
+D:\C#\SignatureAnalysis\bin\Debug\net6.0\SignatureAnalysis.runtimeconfig.json
+D:\C#\SignatureAnalysis\bin\Debug\net6.0\SignatureAnalysis.dll
+D:\C#\SignatureAnalysis\bin\Debug\net6.0\SignatureAnalysis.pdb
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.csproj.AssemblyReference.cache
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.AssemblyInfoInputs.cache
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.AssemblyInfo.cs
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.csproj.CoreCompileInputs.cache
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.dll
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\refint\SignatureAnalysis.dll
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.pdb
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\SignatureAnalysis.genruntimeconfig.cache
+D:\C#\SignatureAnalysis\obj\Debug\net6.0\ref\SignatureAnalysis.dll
